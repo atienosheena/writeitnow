@@ -1,0 +1,45 @@
+
+CSS(style.css):
+css
+body{font-family:Arial,sns-serif;
+margin:20px
+}
+h1{ align:center;
+}
+form {width:400px;
+margin:0 auto;
+}
+label { display: inline-block;
+width:100px;
+}
+form{
+display:flex;
+flex-direction:column;
+width:300px;
+}
+label {
+margin-bottom:10px;
+}
+input type ["text "]{
+padding:5px;
+margin -bottom:10px;
+}
+button [type="submit"]{
+padding:5px 10px;
+}
+input [type="submit"]{margin-left:100px;
+}
+#fileuploadform{
+display:flex;
+align-items:center;
+}
+#fileInput{
+margin-right:10px;
+}
+button[type="submit"]{
+padding:8px 16px;
+background-clor:#007bff;
+color:#fff;
+border:none;
+cursor:pointer;
+}
